@@ -1,8 +1,9 @@
 export const HEADLINES = [
   'Mama minta pulsa',
   'Kearifan lokal yang dibungkam',
-  'Banjir di Cikini Dianggap karena Saluran Air Buruk',
+  'Banjir di Cikini',
   'A.C.A.B',
   'Bukan kupu-kupu malam',
-  'Buang sampah masih sembarangan'
+  'Buang sampah masih sembarangan',
+  'Cokil master'
 ];
