@@ -9,5 +9,7 @@ export const HEADLINES = [
   'Monas ditebang',
   'Kebakaran hutan di kalimantan',
   'Melindungi dan melayani siapa',
-  'Haji Jepri ulang tahun'
+  'Haji Jepri ulang tahun',
+  'Udah ambil laundry belom?',
+  'selamat/sukses'
 ];
