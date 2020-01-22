@@ -11,5 +11,18 @@ export const HEADLINES = [
   'Melindungi dan melayani siapa',
   'Haji Jepri ulang tahun',
   'Udah ambil laundry belom?',
-  'selamat/sukses'
+  'Konglomerat Sawit dapat suntikan dana',
+  'Tanjung Priok demo',
+  'Berilah hambamu uang',
+  'Keraton Agung Sejagat bubar',
+  'Ekstase dalam agoni, nikmati simfoni bunuh diri',
+  'Kau ciptakan surga bernama plaza',
+  'Dimensi Alam keterasingan',
+  'Acara ini acara lo juga nyet',
+  'Kalo gak lo siapa lagi?',
+  'Enak jaman purba, lebih berbagi',
+  'Jangan makan baterai',
+  'Subsidi mega 7,5 triliun',
+  'Aplikasi karya anak bangsa',
+  'Ngerampok di warteg, emang gak ada CCTV?'
 ];
