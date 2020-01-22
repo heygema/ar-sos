@@ -5,5 +5,9 @@ export const HEADLINES = [
   'A.C.A.B',
   'Bukan kupu-kupu malam',
   'Buang sampah masih sembarangan',
-  'Cokil master'
+  'Cokil master',
+  'Monas ditebang',
+  'Kebakaran hutan di kalimantan',
+  'Melindungi dan melayani siapa',
+  'Haji Jepri ulang tahun'
 ];
